@@ -2,3 +2,4 @@ login_user: root
 login_host: db-dev.imvicky.online
 login_password: ExpenseApp1 
 db_host: db-dev.imvicky.online
+backend_api_url: backend.app-dev.imvicky.online
